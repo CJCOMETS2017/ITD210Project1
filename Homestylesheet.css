@@ -1,0 +1,26 @@
+body {
+   font-family: Georgia, "Times New Roman", Times, serif;
+   font-size: 20px;
+   color: #0033ff;
+   background-color: #dadbe3;
+   margin-left: 15%; margin-right: 15%;
+   text-align: center;
+}
+footer {
+	font-size: 20px;
+	text-align: right;
+}
+img	{
+	height: 200px;
+	width: 200px;
+}
+p {
+	text-align: center;
+	font-size: 50px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1	{
+		font-family: lemongrass-script, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
